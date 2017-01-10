@@ -1,7 +1,7 @@
-<?php namespace avancecommunicatie\AvncProp\Facades;
+<?php namespace avancecommunicatie\Prop\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use avancecommunicatie\AvncProp\Prop as AvncProp;
+use avancecommunicatie\Prop\Prop as AvncProp;
 
 class Prop extends Facade {
 

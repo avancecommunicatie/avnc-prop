@@ -1,4 +1,4 @@
-<?php namespace avancecommunicatie\AvncProp;
+<?php namespace avancecommunicatie\Prop;
 
 class Prop
 {
