@@ -1,0 +1,7 @@
+{
+    "name": "avancecommunicatie/avnc-prop",
+    "require": {},
+    "autoload": {
+      "psr-4": { "avancecommunicatie\\AvncProp\\" : "src/" }
+    }
+}
